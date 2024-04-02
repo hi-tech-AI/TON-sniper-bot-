@@ -1,1 +1,1 @@
-# TON-sniper-bot-
+# TON Network Sniper Bot
